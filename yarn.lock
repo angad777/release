@@ -16,20 +16,20 @@
     node-fetch "^2.1.1"
     url-template "^2.0.8"
 
-"@zeit/eslint-config-base@0.2.13":
-  version "0.2.13"
-  resolved "https://registry.yarnpkg.com/@zeit/eslint-config-base/-/eslint-config-base-0.2.13.tgz#47c305edb184efb95cfd4bc83d3ed259ac2bd00d"
-  integrity sha512-onMpkltbQdpzGWU6sezPcj8jqNV5g17CITecPraBrnZ4S+5B5gIvhme1woKV3Y+Kd+ozCBrhUHfHlVhMZSY0FA==
+"@zeit/eslint-config-base@0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@zeit/eslint-config-base/-/eslint-config-base-0.3.0.tgz#32a58c3e52eca4025604758cb4591f3d28e22fb4"
+  integrity sha1-MqWMPlLspAJWBHWMtFkfPSjiL7Q=
   dependencies:
     arg "^1.0.0"
     chalk "^2.3.0"
 
-"@zeit/eslint-config-node@0.2.13":
-  version "0.2.13"
-  resolved "https://registry.yarnpkg.com/@zeit/eslint-config-node/-/eslint-config-node-0.2.13.tgz#f6aabeb07d1f390830ce7be4774c829f070f3f81"
-  integrity sha512-E1bokneUXBxm8OVwSEzN52zq9G3NxqwYNJmJs7MuHtJkTLXprY1hpTdBwl6l3ikDfI5zfUEBx03mrG483Mv1vQ==
+"@zeit/eslint-config-node@0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@zeit/eslint-config-node/-/eslint-config-node-0.3.0.tgz#6e328328f366f66c2a0549a69131bbcd9735f098"
+  integrity sha1-bjKDKPNm9mwqBUmmkTG7zZc18Jg=
   dependencies:
-    "@zeit/eslint-config-base" "0.2.13"
+    "@zeit/eslint-config-base" "0.3.0"
 
 "@zeit/git-hooks@0.1.4":
   version "0.1.4"
